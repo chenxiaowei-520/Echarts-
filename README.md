@@ -5,7 +5,7 @@ http://www.wiszhipu.com/
 
 
 
-Echarts源代码-Echarts + Web实现大屏展示/ Echarts + Web实现大屏展示	
+Echarts源代码-Echarts + Web实现大屏展示/ Echarts + Web实现大屏展示
 
 Echarts源代码-Echarts + Web实现大屏展示2 / ksdemo	Echarts源代码	
 
