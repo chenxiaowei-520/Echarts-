@@ -17,6 +17,12 @@ Echarts源代码-Echarts + Web实现大屏展示/ Echarts + Web实现大屏展�
 
 Echarts源代码-Echarts + Web实现大屏展示2 / ksdemo	Echarts源代码	
 
+
+
+![Aaron Swartz](https://raw.githubusercontent.com/chenxiaowei-520/Echarts-/master/Echarts%20%2B%20Web%E5%AE%9E%E7%8E%B0%E5%A4%A7%E5%B1%8F%E5%B1%95%E7%A4%BA2.png)
+
+
+
 Echarts源代码-Echarts智慧物流	图表资源	
 
 Echarts源代码-Echarts物流大数据服务平台	图表资源	
