@@ -1,7 +1,8 @@
 # Echarts-
 Echarts设备环境监控平台
-支持一下本站，多多点击广告，
-http://www.wiszhipu.com/
+支持一下本站，多多点击广告
+
+http://www.wiszhipu.com/?id=708
 
 
 
